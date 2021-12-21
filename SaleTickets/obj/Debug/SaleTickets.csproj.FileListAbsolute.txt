@@ -1,0 +1,10 @@
+C:\Users\Home\source\repos\SaleTickets\bin\Debug\SaleTickets.exe.config
+C:\Users\Home\source\repos\SaleTickets\bin\Debug\SaleTickets.exe
+C:\Users\Home\source\repos\SaleTickets\bin\Debug\SaleTickets.pdb
+C:\Users\Home\source\repos\SaleTickets\obj\Debug\SaleTickets.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\SaleTickets\obj\Debug\SaleTickets.Properties.Resources.resources
+C:\Users\Home\source\repos\SaleTickets\obj\Debug\SaleTickets.csproj.GenerateResource.cache
+C:\Users\Home\source\repos\SaleTickets\obj\Debug\SaleTickets.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\SaleTickets\obj\Debug\SaleTickets.exe
+C:\Users\Home\source\repos\SaleTickets\obj\Debug\SaleTickets.pdb
+C:\Users\Home\source\repos\SaleTickets\obj\Debug\SaleTickets.FormAutorization.resources
